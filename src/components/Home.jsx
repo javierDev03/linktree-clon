@@ -14,7 +14,7 @@ export default function Home() {
         {/* AVATAR DESCRIPCION */}
 
         <img
-          src="./public/memoji.jpg"
+          src="./memoji.jpg"
           alt="img avatar"
           className=" w-28 h-28 rounded-full mb-4 shadow-2xl"
         />
